@@ -38,8 +38,9 @@ Here's a more detailed version, incorporating unsupervised learning as a potenti
 6. **Computational challenges and resource constraints**:  
    While unsupervised learning offers a promising way forward, it comes with its own computational challenges. The large size of the dataset still poses a significant obstacle in terms of memory and processing power. Although I have set up a virtual environment using WSL, further optimization may be needed to handle the complexity of training and running unsupervised learning models on such a large dataset. It may also be necessary to experiment with different data processing techniques, such as downsampling or dividing the point cloud into smaller chunks, to make the dataset more manageable while still retaining enough detail for accurate segmentation.
 
-In summary, the limitations of existing supervised models like PointNet and the lack of relevant BIM datasets have led me to consider unsupervised learning approaches as a viable solution. By exploring clustering methods, autoencoders, and self-supervised learning techniques, I hope to achieve more accurate and meaningful segmentation of my industrial point cloud data without the need for labeled datasets. While there are still computational challenges to address, the flexibility offered by unsupervised learning may prove crucial in overcoming the limitations posed by traditional models and datasets.
-![hello](C:\Users\Pc\Desktop\Segmentation.JPG)
+In summary, the limitations of existing supervised models like PointNet and the lack of relevant BIM datasets have led 
+me to consider unsupervised learning approaches as a viable solution. By exploring clustering methods, autoencoders, and self-supervised learning techniques, I hope to achieve more accurate and meaningful segmentation of my industrial point cloud data without the need for labeled datasets. While there are still computational challenges to address, the flexibility offered by unsupervised learning may prove crucial in overcoming the limitations posed by traditional models and datasets.
 
-
+![point cloud](https://github.com/user-attachments/assets/a899173e-48ee-4648-988a-7586a96141ed)
+![Segmentation](https://github.com/user-attachments/assets/30cb9101-62d0-4dce-b859-bc191eb7cb2b)
 
