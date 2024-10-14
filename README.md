@@ -5,8 +5,8 @@ This repository contains research and implementation of a deep learning-based ap
 Automating BIM generation from raw 3D point cloud data marks a significant advancement in the architecture, engineering, and construction (AEC) industries. This approach reduces manual labor and enhances the accuracy of BIM models.
 
 #### Table of Contents
-
-
+- Conducted in-depth research on Scan to BIM, Scan vs BIM, and Automated Construction Modeling
+-Implemented deep learning models:  PointNet++ and RandLA-Net  for semantic segmentation of large-scale point clouds on  google cloud
 
 #### Introduction
 
